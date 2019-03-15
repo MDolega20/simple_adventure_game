@@ -1,0 +1,7 @@
+F:\ug-projekt\kopia\kopia\obj\Debug\kopia.csprojAssemblyReference.cache
+F:\ug-projekt\kopia\kopia\obj\Debug\kopia.csproj.CoreCompileInputs.cache
+F:\ug-projekt\kopia\kopia\bin\Debug\kopia.exe.config
+F:\ug-projekt\kopia\kopia\bin\Debug\kopia.exe
+F:\ug-projekt\kopia\kopia\bin\Debug\kopia.pdb
+F:\ug-projekt\kopia\kopia\obj\Debug\kopia.exe
+F:\ug-projekt\kopia\kopia\obj\Debug\kopia.pdb

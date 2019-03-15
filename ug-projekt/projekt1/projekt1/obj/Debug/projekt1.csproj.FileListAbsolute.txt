@@ -1,0 +1,7 @@
+F:\ug-projekt\projekt1\projekt1\bin\Debug\projekt1.exe.config
+F:\ug-projekt\projekt1\projekt1\bin\Debug\projekt1.exe
+F:\ug-projekt\projekt1\projekt1\bin\Debug\projekt1.pdb
+F:\ug-projekt\projekt1\projekt1\obj\Debug\projekt1.csprojAssemblyReference.cache
+F:\ug-projekt\projekt1\projekt1\obj\Debug\projekt1.csproj.CoreCompileInputs.cache
+F:\ug-projekt\projekt1\projekt1\obj\Debug\projekt1.exe
+F:\ug-projekt\projekt1\projekt1\obj\Debug\projekt1.pdb
